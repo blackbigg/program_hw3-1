@@ -1,0 +1,3 @@
+﻿  P20.c
+C:\Users\GEGAME\OneDrive\桌面\program_hw3-1\program_hw3-1\P20\P20.c(16,2): warning C4098: 'main': 'void' 函式正在傳回值
+  P20.vcxproj -> C:\Users\GEGAME\OneDrive\桌面\program_hw3-1\program_hw3-1\x64\Debug\P20.exe

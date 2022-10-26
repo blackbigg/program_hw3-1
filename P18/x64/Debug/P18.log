@@ -1,0 +1,4 @@
+﻿  P18.c
+C:\Users\GEGAME\OneDrive\桌面\program_hw3-1\program_hw3-1\P18\P18.c(14,8): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\GEGAME\OneDrive\桌面\program_hw3-1\program_hw3-1\P18\P18.c(18,2): warning C4098: 'main': 'void' 函式正在傳回值
+  P18.vcxproj -> C:\Users\GEGAME\OneDrive\桌面\program_hw3-1\program_hw3-1\x64\Debug\P18.exe

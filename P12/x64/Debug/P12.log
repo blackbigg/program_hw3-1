@@ -1,0 +1,3 @@
+﻿  P12.c
+C:\Users\GEGAME\OneDrive\桌面\program_hw3-1\program_hw3-1\P12\P12.c(14,2): warning C4098: 'main': 'void' 函式正在傳回值
+  P12.vcxproj -> C:\Users\GEGAME\OneDrive\桌面\program_hw3-1\program_hw3-1\x64\Debug\P12.exe
